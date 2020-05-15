@@ -1,0 +1,22 @@
+{
+  "name": "bloodgar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinW93/learning-pixi.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GavinW93/learning-pixi.js/issues"
+  },
+  "homepage": "https://github.com/GavinW93/learning-pixi.js#readme",
+  "dependencies": {
+    "pixi.js": "^5.2.4"
+  }
+}
